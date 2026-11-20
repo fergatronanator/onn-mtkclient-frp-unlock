@@ -1,6 +1,6 @@
 # onn MT6768 FRP removal and userdata wipe with mtkclient on Windows
 
-Owner-authorized recovery writeup for clearing the Google/FRP lock on an onn MediaTek tablet and then wiping `userdata`. This records the successful September 2026 session. Failed experiments, later Lenovo/ADB work, and unrelated research are intentionally excluded.
+Owner-authorized recovery writeup for clearing the Google/FRP lock on an onn MediaTek tablet and then wiping `userdata`. This records the successful September 2026 session. Failed experiments, later work on other devices, and unrelated research are intentionally excluded.
 
 > **Only do this on a device you own or are explicitly authorized to service.** Erasing `userdata` destroys all local data. Back up anything you need first.
 
