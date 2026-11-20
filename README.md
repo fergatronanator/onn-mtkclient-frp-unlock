@@ -4,6 +4,8 @@ Owner-authorized recovery writeup for clearing the Google/FRP lock on an onn Med
 
 > **Only do this on a device you own or are explicitly authorized to service.** Erasing `userdata` destroys all local data. Back up anything you need first.
 
+> Looking for the video text? A copy-ready description is in [YOUTUBE_DESCRIPTION.md](YOUTUBE_DESCRIPTION.md).
+
 ---
 
 ## The short version (the exact order, in plain English)
